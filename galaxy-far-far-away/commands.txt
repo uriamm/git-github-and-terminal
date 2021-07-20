@@ -1,0 +1,4 @@
+1 - mkdir , touch 
+2 - mkdir tatooine , touch 
+3 - mv
+4 - cp
